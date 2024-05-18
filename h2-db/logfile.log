@@ -1,0 +1,11 @@
+[2024-05-16 17:51:30] [ ERROR] [H2DbApplication:61] org.h2.Driver
+[2024-05-16 17:53:29] [ INFO ] [H2DbApplication:35] Animal: 1 - PERRO - ODIN
+[2024-05-16 17:53:29] [ INFO ] [H2DbApplication:35] Animal: 2 - GATO - ÑAÑA
+[2024-05-16 17:53:29] [ INFO ] [H2DbApplication:35] Animal: 3 - PEZ - JULIA
+[2024-05-16 17:53:29] [ INFO ] [H2DbApplication:35] Animal: 4 - PEZ - DORIS
+[2024-05-16 17:53:29] [ INFO ] [H2DbApplication:35] Animal: 5 - SAPO - PEPE
+[2024-05-16 17:53:29] [ INFO ] [H2DbApplication:47] ------------------------------------------------------------
+[2024-05-16 17:53:29] [ INFO ] [H2DbApplication:50] Animal: 1 - PERRO - ODIN
+[2024-05-16 17:53:29] [ INFO ] [H2DbApplication:50] Animal: 2 - GATO - ÑAÑA
+[2024-05-16 17:53:29] [ INFO ] [H2DbApplication:50] Animal: 3 - PEZ - JULIA
+[2024-05-16 17:53:29] [ INFO ] [H2DbApplication:50] Animal: 4 - PEZ - DORIS
