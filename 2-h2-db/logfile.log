@@ -9,3 +9,13 @@
 [2024-05-16 17:53:29] [ INFO ] [H2DbApplication:50] Animal: 2 - GATO - ÑAÑA
 [2024-05-16 17:53:29] [ INFO ] [H2DbApplication:50] Animal: 3 - PEZ - JULIA
 [2024-05-16 17:53:29] [ INFO ] [H2DbApplication:50] Animal: 4 - PEZ - DORIS
+[2024-05-19 09:36:01] [ INFO ] [H2DbApplication:39] Animal: 1 - PERRO - ODIN
+[2024-05-19 09:36:01] [ INFO ] [H2DbApplication:39] Animal: 2 - GATO - ÑAÑA
+[2024-05-19 09:36:01] [ INFO ] [H2DbApplication:39] Animal: 3 - PEZ - JULIA
+[2024-05-19 09:36:01] [ INFO ] [H2DbApplication:39] Animal: 4 - PEZ - DORIS
+[2024-05-19 09:36:01] [ INFO ] [H2DbApplication:39] Animal: 5 - SAPO - PEPE
+[2024-05-19 09:36:01] [ INFO ] [H2DbApplication:51] ------------------------------------------------------------
+[2024-05-19 09:36:01] [ INFO ] [H2DbApplication:54] Animal: 1 - PERRO - ODIN
+[2024-05-19 09:36:01] [ INFO ] [H2DbApplication:54] Animal: 2 - GATO - ÑAÑA
+[2024-05-19 09:36:01] [ INFO ] [H2DbApplication:54] Animal: 3 - PEZ - JULIA
+[2024-05-19 09:36:01] [ INFO ] [H2DbApplication:54] Animal: 4 - PEZ - DORIS
